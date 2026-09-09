@@ -1,0 +1,14 @@
+0:00 Intro
+1:51 First Look at Data
+3:45 Info()
+4:40 Describe()
+5:47 Counting all Null Values
+7:09 Count of Unique Values
+8:15 Sorting on Values
+10:40 Correlation between Columns
+11:53 Heatmap using Seaborn
+14:43 Grouping Data
+25:02 Visualizing Grouped Data
+26:17 Boxplots for Outliers
+29:07 Data Types of Columns
+30:41 Outro

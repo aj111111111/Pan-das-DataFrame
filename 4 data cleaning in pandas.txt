@@ -1,0 +1,10 @@
+First Look at Data
+Removing Duplicates
+Dropping Columns
+Strip 
+Cleaning/Standardizing Phone Numbers
+Splitting Columns
+Standardizing Column Values using Replace
+Fill Null Values
+Filtering Down Rows of Data
+Outro
